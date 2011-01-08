@@ -36,4 +36,5 @@
 		1) 创建本地的git repo
 		2) git remote add origin git@github.com:<你的ID>/test.git
 		3) git push origin master.
+# 在 repo 里给文件取名：mv file newfile ； rm file   ；git add.    ;git push
 
