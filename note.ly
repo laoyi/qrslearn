@@ -1,7 +1,7 @@
 # vim
 ## creat a new file: vim filename
 ## press "i" and enter write
-###  自动补齐： ctrl + n,如果调用函数时，忘记函数的整个名字，只要知道首字母，也		 可以用这个方法来补齐。	
+###  自动补齐： ctrl + n,如果调用函数时，忘记函数的整个名字，只要知道首字母，也可以用这个方法来补齐。	
 ## save and quit:enter "ESC" and input ":wq",enter.
 ## move cursor:press "ESC"
 	left:L
