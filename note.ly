@@ -10,10 +10,17 @@
 	down:J
 ## vim help: command vintutor
 ## webs: www.vim.org   http://vim-showoff-peter.heroku.com
+## ESC ctrl + u  : 撤销本次写入的内容； ctrl + r  :复原撤销的内容
 ## vim help :vintutor
-## check zhe different about two file: diff -n file1 file2 >difffile  or   diff file1 file2 > difffile
+## check zhe different about two file:
+    diff -n file1 file2 >difffile  or   diff file1 file2 > difffile
+    diff -u file1 file2
 ## path
 	path file1 < difffile
+
+# 查看 HOME ：echo $HOME
+
+# 文本网页化： markdown note > h.html  ;   firefox h.html
 
 # open music or video :totem
 
@@ -36,5 +43,33 @@
 		1) 创建本地的git repo
 		2) git remote add origin git@github.com:<你的ID>/test.git
 		3) git push origin master.
-# 在 repo 里给文件取名：mv file newfile ； rm file   ；git add.    ;git push
+## 在 repo 里给文件取名：mv file newfile ； rm file   ；git add.    ;git push
+## back to history :
+    1.tig 进入要回到的版本
+    2.复制版本号，回车
+    3.回到终端， git checkout + 版本号，回车
+    4.回到了历史记录
+    5.git branch : 无分支
+    6.git checkout master :回到新状态。
+
+# gedit filename
+
+# sudo su :切换到超级用户
+## exit
+## sudo rm
+
+# 连接： ln [file] [mark]
+## 1) symbolic link : ln -s [] [] 
+## 2) hard link : ln [] [] 
+
+# sudo apt-get install filename
+
+# get clone + website
+
+# ls:显示当前文件夹的内容
+    ls  > xxx ,vim xxx: 将当前文件夹的内容显示到文件“xxx”
+
+# rm
+## rm -i :asking y or n?
+
 
