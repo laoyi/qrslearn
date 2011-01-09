@@ -72,6 +72,9 @@
     4.回到了历史记录
     5.git branch : 无分支
     6.git checkout master :回到新状态。
+## delete tig : 
+    1.back to the second new tig,delete the most new one : git reset -- hard HEAD^
+    2.return the most new one : git reset -- hard HEAD
 
 # gedit filename
 # open pdf : evince + filename
