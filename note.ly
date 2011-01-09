@@ -66,6 +66,7 @@
     6.git checkout master :回到新状态。
 
 # gedit filename
+# open pdf : evince + filename
 
 # sudo su :切换到超级用户
 ## exit
