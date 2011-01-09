@@ -1,3 +1,16 @@
+# some websates :
+    bash : <http://tldp.org/LDP/Bash-Beginners-Guide/html/>
+    how to become a good programmer : <http://www.akae.cn/>
+    how to become a Hacker : http://www.beijinglug.org
+    linux command : http://linuxcommand.org/tlcl.php
+    git clone git://github.com/happypeter/TLCL.git
+    git clone git://github.com/happypeter/peter-vim.git
+    <http://vim-showoff-peter.heroku.com/>
+    <https://github.com/happypeter/job-akae/wiki>
+    http://blog.csdn.net/erazy0/archive/2010/05/11/5579941.aspx
+    http://blog.mcuol.com/User/myth_liu/Article/6649_1.htm
+
+
 # vim
 ## creat a new file: vim filename
 ## press "i" and enter write
