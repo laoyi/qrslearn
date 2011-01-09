@@ -30,6 +30,11 @@
     diff -u file1 file2
 ## path
 	path file1 < difffile
+## home/.vim/snippets/c.snippets
+    creat quick press : 
+        # test
+        snippet ppp
+            xxxxxxxxxxx
 
 # 查看 HOME ：echo $HOME
 
