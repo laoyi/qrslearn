@@ -38,7 +38,12 @@
         # test
         snippet ppp
             xxxxxxxxxxx
-
+## look for :/name    next : n    previous : shift + n
+# 查找包名 ： dpkg -l|grep vim
+        查找和vim相关的包去掉|后面部分是查找所有的包。
+# 查找进程 ： ps aux|greg vim
+###        查找和vim有关的进程，去掉|后面的部分就是查找所有的进程。
+###        可以用ps aux打开所有进程，查看打开相应文件的命令。       
 # 查看 HOME ：echo $HOME
 
 # 文本网页化： markdown note > h.html  ;   firefox h.html
