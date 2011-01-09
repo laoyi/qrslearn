@@ -9,6 +9,7 @@
     <https://github.com/happypeter/job-akae/wiki>
     http://blog.csdn.net/erazy0/archive/2010/05/11/5579941.aspx
     http://blog.mcuol.com/User/myth_liu/Article/6649_1.htm
+    webs: www.vim.org
 
 
 # vim
@@ -22,8 +23,10 @@
 	up:K
 	down:J
 ## vim help: command vintutor
-## webs: www.vim.org   http://vim-showoff-peter.heroku.com
 ## ESC ctrl + u  : 撤销本次写入的内容； ctrl + r  :复原撤销的内容
+## cope one line : ESC yy
+## cope some lines : ESC shift+v y
+## paste : p
 ## vim help :vintutor
 ## check zhe different about two file:
     diff -n file1 file2 >difffile  or   diff file1 file2 > difffile
