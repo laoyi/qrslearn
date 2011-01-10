@@ -106,3 +106,5 @@
         2.print note.md with web : vim h.sh => #!/bin/bash => markdown note.md($1) > h.html => firefox h.html => quit => chmod +x h.sh => ./h.sh (note.md)
             attention: "$1" replace mark
 
+# 生成命令
+## like programme "hello.sh" => command : echo $PATH => sudo mv hello.sh /bin
