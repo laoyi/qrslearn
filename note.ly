@@ -97,8 +97,8 @@
 
 # bash
     ## ls:显示当前文件夹的内容
-        ls  > xxx ,vim xxx: 将当前文件夹的内容显示到文件“xxx”
-
+        ### ls  > xxx ,vim xxx: 将当前文件夹的内容显示到文件“xxx”
+        ### ls|grep xx : looking for the file or folder who have keyword "xx"
     ## rm
         ### rm -i :asking y or n?
     ## 脚本操作：
